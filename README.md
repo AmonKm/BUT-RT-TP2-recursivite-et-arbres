@@ -1,1 +1,1 @@
-# BUT-R-T---TP2---r-cursivit-et-arbres
+# BUT-RT-TP2-récursivité-et-arbres
